@@ -1,0 +1,124 @@
+id: 6f182e0851024b5ba012db932da87b2f
+annotation_type: Segment
+revision: '00001'
+annotations:
+  ceb55c5b1b934e829a88291b87704ab2:
+    span:
+      start: 0
+      end: 66
+  2c09a6a5f0b24e06be16ac165b32e5f3:
+    span:
+      start: 68
+      end: 97
+  e294d6afa1314cf28800bb26173133c7:
+    span:
+      start: 99
+      end: 149
+  5dcc8f82691541a097e93040e563225e:
+    span:
+      start: 151
+      end: 207
+  df2f2d48b24c4aed88104a9fe52d3bf1:
+    span:
+      start: 209
+      end: 265
+  a20ee8b5b56148b492271a7c45222722:
+    span:
+      start: 267
+      end: 307
+  92a9be5dabc547959fbc2bf355a54968:
+    span:
+      start: 309
+      end: 368
+  b769b06d8c484129bf704353d36c9efb:
+    span:
+      start: 370
+      end: 632
+  4bf254abf69645b7a26184e2e146b83c:
+    span:
+      start: 634
+      end: 746
+  46dbe218a69e4b85b548d771bb371996:
+    span:
+      start: 748
+      end: 929
+  91c58c076a1345afbb1c93173e53bcc2:
+    span:
+      start: 931
+      end: 984
+  6d2675c4df6b4516b0de700b7aceb4da:
+    span:
+      start: 986
+      end: 1258
+  3c59fc417bde4bc29fef9cf81a00dcdd:
+    span:
+      start: 1260
+      end: 1480
+  1941f9f183a24790b33ef0b2e6082d6b:
+    span:
+      start: 1482
+      end: 2159
+  a3294a232f2a44f0a78580cf83054825:
+    span:
+      start: 2161
+      end: 2250
+  9d05320543db48449e7d0f6049154e1f:
+    span:
+      start: 2252
+      end: 2388
+  ad1539b1759f4c49bb22cb52565f99ee:
+    span:
+      start: 2390
+      end: 2516
+  68592ffdfb3f4358b07f770fb1162b8c:
+    span:
+      start: 2518
+      end: 2625
+  64df165d19964350801ced79209c938b:
+    span:
+      start: 2627
+      end: 2746
+  db9e67b6379843319674980d9f1a1752:
+    span:
+      start: 2748
+      end: 2970
+  614d98e4f7634365b2d4c2d146c39981:
+    span:
+      start: 2972
+      end: 3070
+  a67755d5c0624618862a4bfbe744a438:
+    span:
+      start: 3072
+      end: 3152
+  43ab722af08d47dabc6fc04418b8d931:
+    span:
+      start: 3154
+      end: 3346
+  eac589be19f64e20ac87db915466f1da:
+    span:
+      start: 3348
+      end: 3833
+  b88a440ff7094b8095a0171c67fc9292:
+    span:
+      start: 3835
+      end: 3891
+  6c51c9d07d334a73b9b900557d7d9880:
+    span:
+      start: 3893
+      end: 3949
+  dacc0c4f19e24ead8078361573c30321:
+    span:
+      start: 3951
+      end: 3991
+  e0c3babb99d64005bf8c89ccd1c1f126:
+    span:
+      start: 3993
+      end: 4052
+  f80223937b454c708cfde7047dd511d8:
+    span:
+      start: 4054
+      end: 4061
+  a443df80f8074f72b27299675a4e001c:
+    span:
+      start: 4063
+      end: 4139
